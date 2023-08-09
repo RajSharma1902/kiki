@@ -18,7 +18,7 @@ median = sorted(avgs)[len(avgs) // 2]
 
 
 
-highdiff = 0
+highdiff = 1
 maxdis = ""
 for key, values in sort_keys.items():
     difvalues = set(values)
