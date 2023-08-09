@@ -5,7 +5,7 @@ dict1 = { "k2": [5, 18, 16, 18, 18],
 
 sort_keys = {}
 keys = sorted(dict1.keys())
-for key in keys:
+for key in keys
     sort_keys[key] = dict1[key]
 
 
